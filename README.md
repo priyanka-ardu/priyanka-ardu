@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Ardu</h1>
 <h3 align="center">With 2 years in developing data-driven insights and actionable tech solutions that enhance operational excellence in fast-paced environments, I am a enthusiastic and detail-oriented Full-Stack Developer with a blend of Consulting and Fortune 500 experience, along with a Master’s in Computer Science; specializing in backend transformation, cloud-native architecture - AWS, and AI-powered solutions.</h3>
 
-
 - 🔭 I’m currently working on [building a Health Wellness Tracker](https://github.com/priyanka-ardu/Health-Wellness-Tracker?tab=readme-ov-file#health-wellness-tracker)
 
 - 🌱 I’m currently specializing in **MERN Stack along with AWS and Machine Learning**
