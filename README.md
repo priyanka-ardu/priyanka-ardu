@@ -5,13 +5,6 @@
 
 - 🌱 I’m currently specializing in **MERN Stack along with AWS and Machine Learning**
 
-- 👯 I’m looking to collaborate on [building a Health Wellness Tracker](https://github.com/priyanka-ardu/Health-Wellness-Tracker?tab=readme-ov-file#health-wellness-tracker)
-
-- 🤝 I’m looking for help with [building a Health Wellness Tracker](https://github.com/priyanka-ardu/Health-Wellness-Tracker?tab=readme-ov-file#health-wellness-tracker)
-
-- 👨‍💻 All of my projects are available at [https://github.com/priyanka-ardu](https://github.com/priyanka-ardu)
-
-- 📫 How to reach me **ardu.priyanka@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/priyanka-ardu/](https://www.linkedin.com/in/priyanka-ardu/)
 
